@@ -1,0 +1,24 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-sys/Checkergithub.git"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham-sys/Checkergithub/issues"
+  },
+  "homepage": "https://github.com/shubham-sys/Checkergithub#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
